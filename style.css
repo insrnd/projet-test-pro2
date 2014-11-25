@@ -1,3 +1,57 @@
 body{
     background-image: url(image/brickwall.png);
+    margin:0;
 }
+
+ul{ 
+    margin:0;
+    padding:0;
+}
+
+header {
+    background-color: rgba(0,0,0,0.3);
+    padding-top:25px;
+    padding-bottom:25px
+
+}
+
+header a {
+    text-decoration: none;
+    color:black;
+}
+
+header li {
+    display:inline-block;
+    margin-left: 20px;
+    marging-right:20px;
+    width:31%;
+    text-align: center;
+    font-family:"Helvetica";
+}
+h1{
+    text-align: center;
+    letter-spacing:7px;
+    font-weight: 100;
+    font-family:"helvetica"
+}
+h2{
+    text-align: center;
+    letter-spacing:7px;
+    font-weight: 100;
+    font-family:"helvetica"
+}
+p{
+    text-align: center;
+    font-weight: 100;
+    font-family:"helvetica"
+}
+
+footer{
+    margin-left:35px;
+    margin-right:35px;
+    background-color: rgba(0,0,0,0.3);
+    padding:25px;
+    padding-bottom: 25px;
+}
+
+    
