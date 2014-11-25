@@ -46,12 +46,9 @@ p{
     font-family:"helvetica"
 }
 
-footer{
-    margin-left:35px;
-    margin-right:35px;
-    background-color: rgba(0,0,0,0.3);
-    padding:25px;
-    padding-bottom: 25px;
-}
+footer a{
+    margin-top: auto;
+    
+  }
 
     
