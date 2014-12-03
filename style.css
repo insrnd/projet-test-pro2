@@ -29,9 +29,12 @@ header li {
     font-family:'Quicksand', sans-serif;
     letter-spacing:7px;
 }
+div{
+    margin:auto;
+}
+
 h1{
     text-align: center;
-    letter-spacing:7px;
     font-weight: 100;
     font-family:'Quicksand', sans-serif;
 }
@@ -41,12 +44,24 @@ h2{
     font-weight: 100;
     font-family:'Quicksand', sans-serif;
 }
+h3{ 
+    text-align: center;
+    font-weight: 100;
+    font-family:'Quicksand', sans-serif;
+}
+    
 p{
     text-align: center;
     font-weight: 100;
     font-family:'Quicksand', sans-serif;
 }
-
+p a {
+    text-align: center;
+    font-weight: 100;
+    font-family:'Quicksand', sans-serif;
+    text-decoration: none;
+    color:rgb(207,107,105);
+}
 footer{
     background-color: rgba(254,211,202,0.3);
     padding:0;
