@@ -1,5 +1,5 @@
 body{
-    background-image: url(image/flower.jpg);
+    background-image: url(image/backgroundyaya.jpg);
     margin:0;
 }
 
@@ -9,7 +9,7 @@ ul{
 }
 
 header {
-    background-color: rgba(254,211,202,0.3);
+    background-color: rgba(254,211,202,0.2);
     padding-top:25px;
     padding-bottom:25px
 
@@ -29,8 +29,12 @@ header li {
     font-family:'Quicksand', sans-serif;
     letter-spacing:7px;
 }
-div{
+.recherche{
     margin:auto;
+    width:400px;
+    height:110px;
+    overflow:auto;
+    border:solid 1px black;
 }
 
 h1{
@@ -63,7 +67,7 @@ p a {
     color:rgb(207,107,105);
 }
 footer{
-    background-color: rgba(254,211,202,0.3);
+    background-color: rgba(254,211,202,0.2);
     padding:0;
     margin:0;
     position:absolute;
@@ -72,8 +76,12 @@ footer{
 }
 
 footer a{
-    margin-top: auto;
-    vertical-align: middle,
+    margin-top:auto;
+    align-content: center;
+    
+}
+footer p{
+    font-size: 7pt;
     
 }
 
