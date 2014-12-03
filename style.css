@@ -26,24 +26,25 @@ header li {
     marging-right:20px;
     width:31%;
     text-align: center;
-    font-family:"Helvetica";
+    font-family:'Quicksand', sans-serif;
+    letter-spacing:7px;
 }
 h1{
     text-align: center;
     letter-spacing:7px;
     font-weight: 100;
-    font-family:"helvetica"
+    font-family:'Quicksand', sans-serif;
 }
 h2{
     text-align: center;
     letter-spacing:7px;
     font-weight: 100;
-    font-family:"helvetica"
+    font-family:'Quicksand', sans-serif;
 }
 p{
     text-align: center;
     font-weight: 100;
-    font-family:"helvetica"
+    font-family:'Quicksand', sans-serif;
 }
 
 footer{
@@ -57,7 +58,7 @@ footer{
 
 footer a{
     margin-top: auto;
-    align-content: center;
+    vertical-align: middle,
     
 }
 
